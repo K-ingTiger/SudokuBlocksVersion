@@ -1,5 +1,3 @@
 {
-  "latestVersion": "2.1.3",
-  "url_android_prod": "market://details?id=com.yourcompany.yourapp",
-  "url_android_test": "https://play.google.com/apps/test/com.puzzleholic.BlockSudoku/1101"
+  "latestVersion": "1.0.7",
 }
